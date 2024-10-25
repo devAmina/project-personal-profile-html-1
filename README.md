@@ -14,7 +14,7 @@ This hands-on project is designed to help you practice core HTML concepts while 
 ---
 ## **📝 Requirements:**
 - Create the HTML needed to build your personal profile page.
-<br>
+</br>
 [<img src="./assets/required-profile-form.png" alt="registration-form" width="600">]()
 ---
 #### **Required Sections:**
