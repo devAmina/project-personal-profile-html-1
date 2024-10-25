@@ -68,13 +68,6 @@ This hands-on project is designed to help you practice core HTML concepts while 
   - `cellpadding`
   - `bgcolor`
 - Use `center` tag for alignment
----
-#### **🎨 Using HTML Entities for Emojis**
-1. Visit recommended emoji reference sites:
-   - https://html-css-js.com/html/character-codes/emojis/
-   - https://www.w3schools.com/charsets/ref_emoji.asp
-2. Copy the HTML entity code (starts with &#x)
-3. Paste into your HTML where needed
 
 ---
 ### **🤔 What to Do If You Are Stuck?**
@@ -84,6 +77,7 @@ This hands-on project is designed to help you practice core HTML concepts while 
 - Look up form element examples
 #### **Ask for Help:**
 - Reach out to your instructor or peers for assistance
+
 ---
 ### **📚 Fundamentals Covered**
 #### This exercise covers the following fundamentals:
