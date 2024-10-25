@@ -15,7 +15,8 @@ This hands-on project is designed to help you practice core HTML concepts while 
 ## **📝 Requirements:**
 - Create the HTML needed to build your personal profile page.
 </br>
-- [<img src="./assets/required-profile-form.png" alt="registration-form" width="600">]()
+<img src="./assets/required-profile-form.png" alt="registration-form" width="800">
+
 ---
 #### **Required Sections:**
 - **Header Section**
@@ -58,6 +59,7 @@ This hands-on project is designed to help you practice core HTML concepts while 
   - Horizontal Rules
   - Center Tag
   - HTML Entities for Emojis
+
 ---
 #### **Basic Styling:**
 - Use basic HTML attributes for styling:
@@ -73,6 +75,7 @@ This hands-on project is designed to help you practice core HTML concepts while 
    - https://www.w3schools.com/charsets/ref_emoji.asp
 2. Copy the HTML entity code (starts with &#x)
 3. Paste into your HTML where needed
+
 ---
 ### **🤔 What to Do If You Are Stuck?**
 #### **Review Fundamentals:**
@@ -94,6 +97,7 @@ This hands-on project is designed to help you practice core HTML concepts while 
 8. **Basic HTML Styling Attributes**
 9. **Text Formatting**
 10. **HTML Forms and Input Types**
+
 ---
 ## **✅ Submission Checklist**
 - [ ] All required sections are present
